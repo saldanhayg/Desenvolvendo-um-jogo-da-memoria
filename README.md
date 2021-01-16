@@ -1,7 +1,7 @@
 ## Projeto - Desenvolvendo um jogo da memória 
 
 <h1>
-    <<img src="https://i.ibb.co/PtXC9tZ/DIO-Jogo-da-memoria.png" alt="jogo da memória" border="0">
+    <img src="https://i.ibb.co/PtXC9tZ/DIO-Jogo-da-memoria.png" alt="jogo da memória" border="0">
 
 </h1>
  
